@@ -55,14 +55,17 @@ Materials science researcher and battery R&D engineer with a Ph.D. and a backgro
 - Scientific Python tools and reproducible computational notebooks.
 - Practical applications of AI in industrial R&D and scientific workflows.
 
+## Open-Source Work
+
+- **[ocvfit](https://github.com/catnap042/ocvfit)** — Python package for OCV fitting and degradation-mode analysis (LLI, LAM) of lithium-ion cells, with uncertainty quantification, identifiability checks, dQ/dV and dV/dQ analysis, tests and CI.
+
 ## Open Portfolio Roadmap
 
 The following are **planned personal demonstrations** using published, open-license, or synthetic datasets. They do not represent released projects or employer work.
 
-1. **OCV Curve Reconstruction:** Parameterized fitting and clear diagnostic plots.
-2. **Battery Diagnostics Notebook:** dQ/dV and dV/dQ analysis with documented numerical choices.
-3. **Model Comparison:** Transparent ECM/TLM examples with validation discussion.
-4. **Lifetime Estimation:** A reproducible comparison of estimation methods and uncertainty.
+1. **Battery Diagnostics Notebook:** dQ/dV and dV/dQ analysis with documented numerical choices.
+2. **Model Comparison:** Transparent ECM/TLM examples with validation discussion.
+3. **Lifetime Estimation:** A reproducible comparison of estimation methods and uncertainty.
 
 ## Professional Approach
 

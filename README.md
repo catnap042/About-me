@@ -14,18 +14,29 @@ My interests extend beyond batteries to scientific computing, applied AI, and to
 - **Scientific computing:** Python, NumPy, pandas, SciPy, Matplotlib, and Jupyter-based research workflows.
 - **AI for engineering:** practical AI-assisted methods for coding, data analysis, technical communication, and research automation.
 
-## 🧪 Public Portfolio — In Development
+## 🚀 Featured Project
+
+### [ocvfit](https://github.com/catnap042/ocvfit) — OCV fitting & degradation-mode analysis for Li-ion cells
+
+[![CI](https://github.com/catnap042/ocvfit/actions/workflows/ci.yml/badge.svg)](https://github.com/catnap042/ocvfit/actions/workflows/ci.yml)
+
+A Python package that fits full-cell open-circuit voltage (OCV) curves with half-cell electrode potentials to quantify **loss of lithium inventory (LLI)** and **loss of active material (LAM_PE / LAM_NE)**, with uncertainty and identifiability checks, dQ/dV and dV/dQ analysis, and worked LFP/graphite and NMC/graphite examples built from published, open data.
+
+```bash
+pip install "git+https://github.com/catnap042/ocvfit"
+```
+
+## 🧪 More Projects — In Development
 
 I am developing independent demonstrations designed to be **reproducible, understandable, and safe to share**:
 
 | Project area | Planned public demonstration |
 | --- | --- |
-| Battery curve analysis | Reconstruct and compare OCV, dQ/dV, and dV/dQ curves using open or synthetic data. |
 | Electrochemical models | Explain and fit simple ECM/TLM models with documented assumptions. |
 | Health and lifetime estimation | Compare interpretable prediction methods on openly available datasets. |
 | Engineering automation | Build reusable Python notebooks for data cleaning, visualization, and validation. |
 
-*These are planned demonstrations, not claims of already-published repositories.*
+*Planned demonstrations; links will be added as they are published.*
 
 ## 🧭 How I Approach Engineering
 
