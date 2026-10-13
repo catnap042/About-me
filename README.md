@@ -1,4 +1,4 @@
-# Hi, I'm catnap42 👋
+# Hi, I'm catnap042 👋
 
 **Battery R&D Engineer | Electrochemical Modeling | Scientific Computing | AI for Engineering**
 
