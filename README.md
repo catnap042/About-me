@@ -20,7 +20,7 @@ My interests extend beyond batteries to scientific computing, applied AI, and to
 
 [![CI](https://github.com/catnap042/ocvfit/actions/workflows/ci.yml/badge.svg)](https://github.com/catnap042/ocvfit/actions/workflows/ci.yml)
 
-A Python package that fits full-cell open-circuit voltage (OCV) curves with half-cell electrode potentials to quantify **loss of lithium inventory (LLI)** and **loss of active material (LAM_PE / LAM_NE)**, with uncertainty and identifiability checks, dQ/dV and dV/dQ analysis, and worked LFP/graphite and NMC/graphite examples built from published, open data. It ships only synthetic data and never accepts proprietary cell data ([scope](https://github.com/catnap042/ocvfit/blob/main/SCOPE.md)).
+A Python package that fits full-cell open-circuit voltage (OCV) curves with half-cell electrode potentials to quantify **loss of lithium inventory (LLI)** and **loss of active material (LAM_PE / LAM_NE)**, with uncertainty and identifiability checks, dQ/dV and dV/dQ analysis, and worked LFP/graphite and NMC/graphite examples on synthetic data generated from published OCP functions. It ships only synthetic data and never accepts proprietary cell data ([scope](https://github.com/catnap042/ocvfit/blob/main/SCOPE.md)).
 
 ```bash
 pip install "git+https://github.com/catnap042/ocvfit"
